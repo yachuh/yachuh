@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Yachu
+- 👋 Hi, I’m Yachu from Taiwan.
+- 🌱 3+ years as a product manager in start-ups.
 - 🌱 I’m currently learning to become a web developer!
 
 <!---
