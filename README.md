@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Yachu from Taiwan.
-- 🌱 3+ years as a product manager & 5+ years in digital marketing field.
-- 🌱 Self-taught web developer
+👋 Hi, I’m Yachu from Taiwan.
 
-A versatile professional with a dynamic career journey that spans across marketing, product management, and now web development. As a self-taught web developer, I am driven by my passion for building software products that have a positive impact on people's lives. My insatiable curiosity has constantly motivated me to acquire new skills and expertise in the ever-evolving field of technology.
+Frontend engineer with 2.5+ years of experience building scalable, enterprise-level web applications. Specializing in React, TypeScript, performance optimization, and maintainable UI architecture for high-concurrency real-world platforms.Proven track record in managing complex state, architecting type-safe API layers, and reducing rendering bottlenecks.
+Leveraging a strong background in Product Management to bridge the gap between complex business logic and robust technical execution.
 
 <!---
 yachuh/yachuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
